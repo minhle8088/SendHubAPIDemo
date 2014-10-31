@@ -1,0 +1,4 @@
+- Sign up an account on https://www.sendhub.com/
+- Refer to http://apidocs.sendhub.com/ for how to use Sendhub REST API
+- Sign up an account on https://www.heroku.com/
+- Push the demo to heroku 
